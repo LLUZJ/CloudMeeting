@@ -4,6 +4,8 @@
 ## 使用方法
 ``
 usage: ./app [host] <port #> <#threads> <#processes>
+eg:
+./app 0.0.0.0 8888 2 4
 ``
 
 #### threads 用于处理客户端连接的线程数
