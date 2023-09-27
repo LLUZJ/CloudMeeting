@@ -1,0 +1,63 @@
+..\CloudMeeting-master\widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+..\CloudMeeting-master\widget.cpp:Widget::40>>>main UI thread id: 0x00006C10
+..\CloudMeeting-master\sendimg.cpp:run::17>>>start sending picture thread: 0x000038AC
+..\CloudMeeting-master\sendtext.cpp:run::35>>>start sending text thread: 0x00007614
+..\CloudMeeting-master\recvsolve.cpp:run::21>>>start solving data thread: 0x000032BC
+..\CloudMeeting-master\AudioOutput.cpp:run::111>>>start playing audio thread 0x00000954
+..\CloudMeeting-master\recvsolve.cpp:run::28>>>stop solving data thread: 0x000032BC
+..\CloudMeeting-master\sendimg.cpp:run::33>>>stop sending picture thread: 0x000038AC
+..\CloudMeeting-master\sendtext.cpp:run::48>>>stop sending text thread: 0x00007614
+..\CloudMeeting-master\AudioOutput.cpp:run::119>>>stop playing audio thread 0x00000954
+..\CloudMeeting-master\widget.cpp:Widget::41>>>-------------------------Application Start---------------------------
+..\CloudMeeting-master\widget.cpp:Widget::42>>>main UI thread id: 0x00006CB8
+..\CloudMeeting-master\sendimg.cpp:run::19>>>start sending picture thread: 0x0000784C
+..\CloudMeeting-master\sendtext.cpp:run::37>>>start sending text thread: 0x00002990
+..\CloudMeeting-master\recvsolve.cpp:run::23>>>start solving data thread: 0x000015E0
+..\CloudMeeting-master\AudioOutput.cpp:run::113>>>start playing audio thread 0x00007148
+..\CloudMeeting-master\widget.cpp:on_connServer_clicked::413>>>failed to connenct 192.168.1.126:8888
+..\CloudMeeting-master\recvsolve.cpp:run::30>>>stop solving data thread: 0x000015E0
+..\CloudMeeting-master\sendimg.cpp:run::35>>>stop sending picture thread: 0x0000784C
+..\CloudMeeting-master\sendtext.cpp:run::50>>>stop sending text thread: 0x00002990
+..\CloudMeeting-master\AudioOutput.cpp:run::121>>>stop playing audio thread 0x00007148
+..\CloudMeeting-master\widget.cpp:Widget::41>>>-------------------------Application Start---------------------------
+..\CloudMeeting-master\widget.cpp:Widget::42>>>main UI thread id: 0x000026C8
+..\CloudMeeting-master\sendimg.cpp:run::19>>>start sending picture thread: 0x00006384
+..\CloudMeeting-master\sendtext.cpp:run::37>>>start sending text thread: 0x00007014
+..\CloudMeeting-master\recvsolve.cpp:run::23>>>start solving data thread: 0x00006F20
+..\CloudMeeting-master\AudioOutput.cpp:run::113>>>start playing audio thread 0x00006E9C
+..\CloudMeeting-master\widget.cpp:on_connServer_clicked::413>>>failed to connenct 192.168.1.126:8888
+..\CloudMeeting-master\recvsolve.cpp:run::30>>>stop solving data thread: 0x00006F20
+..\CloudMeeting-master\sendimg.cpp:run::35>>>stop sending picture thread: 0x00006384
+..\CloudMeeting-master\sendtext.cpp:run::50>>>stop sending text thread: 0x00007014
+..\CloudMeeting-master\AudioOutput.cpp:run::121>>>stop playing audio thread 0x00006E9C
+..\CloudMeeting-master\widget.cpp:Widget::41>>>-------------------------Application Start---------------------------
+..\CloudMeeting-master\widget.cpp:Widget::42>>>main UI thread id: 0x00001F2C
+..\CloudMeeting-master\sendimg.cpp:run::19>>>start sending picture thread: 0x00003900
+..\CloudMeeting-master\sendtext.cpp:run::38>>>start sending text thread: 0x00003C90
+..\CloudMeeting-master\recvsolve.cpp:run::23>>>start solving data thread: 0x0000050C
+..\CloudMeeting-master\AudioOutput.cpp:run::113>>>start playing audio thread 0x00000BB8
+..\CloudMeeting-master\widget.cpp:on_connServer_clicked::410>>>succeeed connecting to 192.168.162.129:8888
+..\CloudMeeting-master\widget.cpp:datasolve::497>>>succeed joining room
+..\CloudMeeting-master\widget.cpp:on_exitmeetBtn_clicked::314>>>exit meeting
+..\CloudMeeting-master\recvsolve.cpp:run::30>>>stop solving data thread: 0x0000050C
+..\CloudMeeting-master\sendimg.cpp:run::35>>>stop sending picture thread: 0x00003900
+..\CloudMeeting-master\sendtext.cpp:run::51>>>stop sending text thread: 0x00003C90
+..\CloudMeeting-master\AudioOutput.cpp:run::121>>>stop playing audio thread 0x00000BB8
+..\CloudMeeting-master\widget.cpp:Widget::41>>>-------------------------Application Start---------------------------
+..\CloudMeeting-master\widget.cpp:Widget::42>>>main UI thread id: 0x000026D4
+..\CloudMeeting-master\sendimg.cpp:run::19>>>start sending picture thread: 0x000044C4
+..\CloudMeeting-master\sendtext.cpp:run::38>>>start sending text thread: 0x00003914
+..\CloudMeeting-master\recvsolve.cpp:run::23>>>start solving data thread: 0x00003014
+..\CloudMeeting-master\AudioOutput.cpp:run::113>>>start playing audio thread 0x00003DD0
+..\CloudMeeting-master\widget.cpp:on_connServer_clicked::418>>>failed to connenct 192.168.1.126:8888
+..\CloudMeeting-master\widget.cpp:on_connServer_clicked::418>>>failed to connenct 192.168.1.126:8888
+..\CloudMeeting-master\widget.cpp:on_connServer_clicked::410>>>succeeed connecting to 192.168.162.129:8888
+..\CloudMeeting-master\widget.cpp:on_createmeetBtn_clicked::259>>>create meeting
+..\CloudMeeting-master\widget.cpp:datasolve::452>>>succeed creating room 37748736
+..\CloudMeeting-master\widget.cpp:on_openVedio_clicked::339>>>open camera
+..\CloudMeeting-master\widget.cpp:on_openVedio_clicked::326>>>close camera
+..\CloudMeeting-master\widget.cpp:on_exitmeetBtn_clicked::314>>>exit meeting
+..\CloudMeeting-master\recvsolve.cpp:run::30>>>stop solving data thread: 0x00003014
+..\CloudMeeting-master\sendimg.cpp:run::35>>>stop sending picture thread: 0x000044C4
+..\CloudMeeting-master\sendtext.cpp:run::51>>>stop sending text thread: 0x00003914
+..\CloudMeeting-master\AudioOutput.cpp:run::121>>>stop playing audio thread 0x00003DD0
